@@ -33,6 +33,7 @@ ___
         ├── hurricane_word_coef.png
         ├── tornado_word_coef.png
         ├── tweets_by_category.png
+    ├── Mapping Disasters with Social Media Presentation.mp4
     ├── README.md
     └── disaster_tweets_location.pdf
     
