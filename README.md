@@ -26,9 +26,9 @@ ___
         ├── train_hurricane_sandy.csv
         ├── train_ok_tornado.csv 
     ├── maps
-        ├── map1.html
-        ├── map2.html
-        ├── map3.html    
+        ├── map1.png
+        ├── map2.png
+        ├── map3.png    
     ├── visuals
         ├── hurricane_word_coef.png
         ├── tornado_word_coef.png
