@@ -159,7 +159,7 @@ The top 20 words with the highest log coefficients in the pipeline with a CountV
 
 After a tweet is labeled "on-topic", the location of the tweet is marked on a map using the Google Maps API and the gmplot library to notify rescue teams which areas need assistance. The map feature was tested using the Cape Cod test data to confirm functionality. However, due to the lack of geolocations provided, we used a fake dataset that a previous LA cohort had created with coordinates listed. This would allow us to better showcase how the map feature would function should geolocations be more accessible with real-time tweets.
 
-<img src="./maps/map1.html">
+<img src="./maps/map1.png">
 
 ---
 
