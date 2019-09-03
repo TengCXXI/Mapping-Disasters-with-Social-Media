@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 5: Disaster Tweet Mapping
+# Mapping Disasters with Social Media
 By: Femi Adenugba, Sue Moy, and Teng Mao at General Assembly in DSI-8-Boston
 
 ___
